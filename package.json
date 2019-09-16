@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/lostradamus/chucknorris-app/issues"
   },
-  "homepage": "https://github.com/lostradamus/chucknorris-app#readme"
+  "homepage": "https://github.com/lostradamus/chucknorris-app#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
 }
